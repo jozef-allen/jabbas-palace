@@ -249,7 +249,7 @@ img {
   /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)), url(images/palace-exterior.jpg);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  height: 400px;
+  height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 30%;
@@ -257,7 +257,7 @@ img {
 
 @media only screen and (min-width: 37.5em) {
   .hero-image {
-    height: 609px;
+    height: 500px;
   }
 }
 
